@@ -1,4 +1,4 @@
-# code for black hat pytohn
+# code for black hat python
 
 this is collection of the code that i wrote on the topics in 
 the book black hat python
